@@ -1,0 +1,10 @@
+c:\users\dell\documents\visual studio 2013\Projects\MaterialWebBrowser\MaterialWebBrowser\bin\Debug\MaterialWebBrowser.exe.config
+c:\users\dell\documents\visual studio 2013\Projects\MaterialWebBrowser\MaterialWebBrowser\bin\Debug\MaterialWebBrowser.exe
+c:\users\dell\documents\visual studio 2013\Projects\MaterialWebBrowser\MaterialWebBrowser\bin\Debug\MaterialWebBrowser.pdb
+c:\users\dell\documents\visual studio 2013\Projects\MaterialWebBrowser\MaterialWebBrowser\bin\Debug\MaterialSkin.dll
+c:\users\dell\documents\visual studio 2013\Projects\MaterialWebBrowser\MaterialWebBrowser\obj\Debug\MaterialWebBrowser.csprojResolveAssemblyReference.cache
+c:\users\dell\documents\visual studio 2013\Projects\MaterialWebBrowser\MaterialWebBrowser\obj\Debug\MaterialWebBrowser.Form1.resources
+c:\users\dell\documents\visual studio 2013\Projects\MaterialWebBrowser\MaterialWebBrowser\obj\Debug\MaterialWebBrowser.Properties.Resources.resources
+c:\users\dell\documents\visual studio 2013\Projects\MaterialWebBrowser\MaterialWebBrowser\obj\Debug\MaterialWebBrowser.csproj.GenerateResource.Cache
+c:\users\dell\documents\visual studio 2013\Projects\MaterialWebBrowser\MaterialWebBrowser\obj\Debug\MaterialWebBrowser.exe
+c:\users\dell\documents\visual studio 2013\Projects\MaterialWebBrowser\MaterialWebBrowser\obj\Debug\MaterialWebBrowser.pdb
